@@ -1,0 +1,35 @@
+*{
+	color:white;	
+}
+
+h2{
+	display:block;
+	text-align: left;
+border-collapse: 25px;
+	border-radius: 0px;
+	border-width: 2px;
+	border: 2px white solid;
+	width: 60px;
+	height: 30px;
+	margin: 0;
+	display:inline-block;
+	border-color:white-space;	
+}
+h3{display:block;
+	text-align: right;
+border-collapse: 25px;
+	border-radius: 0px;
+	border-width: 2px;
+	border: 2px white solid;
+	width: 60px;
+	height: 30px;
+	margin: 0;
+	border-color:white solid;
+}
+#menu div{
+	display: inline-block;
+	border-color 
+}
+#jojo{
+	border: 1px black solid;
+}

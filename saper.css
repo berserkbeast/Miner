@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background-image:url("Jojo_for_site.jpg");
+	background-size: cover; }
+table{
+	margin: auto;
+
+}
+
+tr{
+	display: block;
+	border-color:white; 
+	margin: 0;
+	padding: 0;
+}
+
+table td{
+	background-image:url("");
+	border-radius: 25px;
+	border: 2px white solid;
+	width: 50px;
+	height: 50px;
+	margin: 0;
+	color:white;
+
+}
+
+  ;
